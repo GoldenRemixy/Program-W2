@@ -1,0 +1,92 @@
+body
+{
+	background-color: #6d7353;
+	color: #252525;
+}
+
+img
+{
+	width: 100px;
+}
+
+table
+{
+	padding-left: 35%;
+}
+
+button
+{
+	margin-top: 15%;
+	padding: 20;
+	background-color: #6d7353;
+	border-radius: 10px;
+	border-width: 0px;
+	color: #212615;
+	font-weight: bold;
+}
+
+button:hover
+{
+	background-color: #212615;
+	color: #6d7353;
+	transition-duration: 0.3s;
+}
+
+#lewo
+{
+	background-color: bcc4a2;
+	width: 20%;
+	height: 95%;
+	float: left;
+	text-align: center;
+	
+}
+
+#prawo
+{
+	background-color: bcc4a2;
+	width: 79.8%;
+	height: 95%;
+	float: right;
+	text-align: center;
+	
+}
+
+.center
+{
+
+}
+
+.navigation-bar
+{
+	  list-style-type: none;
+	  margin: 0;
+	  padding: 0;
+	  overflow: hidden;
+	  background-color: #212615;
+	  font-size: 24px;
+	  text-align: right;
+}
+
+.navigation 
+{
+	display: inline-block;
+	width: 10%;
+}
+
+.navigation a 
+{
+	display: block;
+	color: #bbc3a0;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+	transition-duration: 0.5s;
+}
+
+.navigation a:hover 
+{
+	background-color: #bcc4a2;
+	color: #212615;
+}
+
